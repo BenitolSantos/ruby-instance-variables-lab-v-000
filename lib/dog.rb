@@ -11,5 +11,4 @@ end
 lassie = Dog.new #making a new Dog object named lassie
 lassie.name = "Lassie" #using the name method inside to name lassie with
 #a "Lassie" string
-puts Lassie.name
-
+puts lassie.name

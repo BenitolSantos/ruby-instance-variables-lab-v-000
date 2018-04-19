@@ -7,3 +7,4 @@ class Dog
     @this_name_name
   end
 end
+
